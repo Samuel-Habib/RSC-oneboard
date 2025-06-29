@@ -1,0 +1,14 @@
+../Core/Src/main.c:73:6:init_vehicle_state	1
+../Core/Src/main.c:92:6:calculate_state	1
+../Core/Src/main.c:116:6:update_io	2
+../Core/Src/main.c:152:6:HAL_GPIO_EXTI_Callback	1
+../Core/Src/main.c:158:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:177:5:main	4
+../Core/Src/main.c:262:6:SystemClock_Config	4
+../Core/Src/main.c:317:13:MX_ADC1_Init	4
+../Core/Src/main.c:377:13:MX_CAN1_Init	2
+../Core/Src/main.c:414:13:MX_TIM2_Init	4
+../Core/Src/main.c:457:13:MX_DMA_Init	1
+../Core/Src/main.c:475:13:MX_GPIO_Init	1
+../Core/Src/main.c:542:6:MPU_Config	1
+../Core/Src/main.c:573:6:Error_Handler	1
